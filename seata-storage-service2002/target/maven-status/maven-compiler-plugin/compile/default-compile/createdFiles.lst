@@ -1,0 +1,9 @@
+com\zlh\cloudalibaba\domain\CommonResult.class
+com\zlh\cloudalibaba\service\impl\StorageServiceImpl.class
+com\zlh\cloudalibaba\SeataStorageMainApp2002.class
+com\zlh\cloudalibaba\dao\StorageDao.class
+com\zlh\cloudalibaba\service\StorageService.class
+com\zlh\cloudalibaba\controller\StorageController.class
+com\zlh\cloudalibaba\domain\Storage.class
+com\zlh\cloudalibaba\config\MyBatisConfig.class
+com\zlh\cloudalibaba\config\DataSourceProxyConfig.class
